@@ -13,6 +13,7 @@
 # mauron, 2018
 # Butterfly <gokhanlnx@gmail.com>, 2019
 # Sabri Ünal <libreajans@gmail.com>, 2022
+# Hasan YILDIZ <hasanyildiz0@yaani.com>, 2023
 #
 msgid ""
 msgstr ""
@@ -1291,7 +1292,7 @@ msgstr "Büyütülmüş ve dekorasyonları olmayan pencereleri tam ekran yapma"
 
 #: src/core/main.c:306
 msgid "Have all keybindings disabled on startup"
-msgstr ""
+msgstr "Başlangıçta tüm tuş bağlantılarını devre dışı bırak"
 
 #: src/core/main.c:507
 #, c-format
@@ -1851,6 +1852,8 @@ msgid ""
 "GTK custom color specification must have color name and fallback in parentheses, e."
 "g. gtk:custom(foo,bar); could not parse \"%s\""
 msgstr ""
+"GTK özel renk belirtimi, renk adına ve parantez içinde geri dönüşe sahip olmalıdır, e."
+"g. gtk:custom(foo,bar); \"%s\" ayrıştırılamadı"
 
 #: src/ui/theme.c:1413
 #, c-format
@@ -1867,6 +1870,8 @@ msgid ""
 "Gtk:custom format is \"gtk:custom(color_name,fallback)\", \"%s\" does not fit the "
 "format"
 msgstr ""
+"Gtk:özel biçim \"gtk:özel(renk_adı,yedek)\", \"%s\" "
+"biçim"
 
 #: src/ui/theme.c:1471
 #, c-format
